@@ -6,4 +6,3 @@ if __name__ == "__main__":
     car = Car("AMD446", Account("Esteban","OLS123"))
     print(vars(car))
     print(vars(car.driver))
-    
